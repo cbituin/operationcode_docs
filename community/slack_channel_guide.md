@@ -10,7 +10,8 @@ There is plenty of overlap; don't fret about it too much.
 | #career_advice | Ask for a resume review, career advice, questions about job offers |
 | #job_board | Post job opportunities, discuss job opportunity specifics |
 | #help | Ask us anything (probably about tech, but maybe not? I don't know!) Yes, even if you're new to all this, so are lots of people. |
-| #townhall | Chat about the weekly town hall meeting || #dotnet | Talk about .net development |
+| #townhall | Chat about the weekly town hall meeting |
+| #dotnet | Talk about .net development |
 | #javascript | Talk about Javascript. Hardcore javascript or not |
 | #java | Java and JVM talk |
 | #ruby | All of the Rubies! |
@@ -35,3 +36,8 @@ There is plenty of overlap; don't fret about it too much.
 | #colleges | Selecting a college, major/field of study, courses and electives, career specific programs, funding/financial aid options, tuition assistance/reimbursement programs |
 | #database | All about databases - creating, using, and admin |
 | #salesforce | Learn about SalesForce and SalesForce development |
+
+| Geographical Channel | Description | 
+| --------- |:--------------:|
+| #texas | All things Texas (All Cities) |
+
